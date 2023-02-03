@@ -1,0 +1,95 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name=“description” content=“This is a website that to introduce my favorite singer Vaundy”>
+<meta name=“viewport” content=“width=device-width, initial-scale=1”>
+
+<style>
+body {
+  background-color: #20b2aa ;
+}
+
+h1 {
+  color: #ffd700 ;
+  text-align: center;
+  font-size: 80px;
+}
+
+ p {
+ 
+  font-family: verdana;
+  font-size: 40px;
+}
+</style>
+
+<title>This is Vaundy</title>
+</head>
+
+<body>
+
+<!headings>
+<h1> Vaundy</h1>
+<h2 style="color:Red;">The most potential song maker in japan</h2>
+<h3 style="color:orange;"> He had made a lot of heat songs and raise the awareness of young generation and even change their life </h3>
+<h4 style="color:white;"> He used 80's pop songs style melody and a MV that make people feel impressive it's also his characteristic</h4>
+
+
+
+<!Links>
+<a href="https://youtu.be/k1ctwFUnt5Y">Learn more</a>
+</br> </br>
+
+
+<!image>
+<img src="https://lp.p.pia.jp/shared/materials/5bb3efe9-1c2c-4072-b077-9861cb290adc/origin.jpg" alt="mirrorchristmas" width="400">
+
+<!list>
+<h2>collaboration artist </h2> 
+<ul>
+  <li>Lisa</li>
+  <li>Milet</li>
+  <li>YOASIBI's Ikura</li>
+  <li>Nulbarich</li>
+</ul>  
+<!image>
+<img src="https://i.scdn.co/image/ab67616d0000b273ac1a5a83790ba13920affe1e"mirrorchristmas" width="600">
+
+
+
+
+
+<h2>My Favorite songs</h2>
+
+<ol>
+  <li>踊り子</li>
+  <!Links> <a href="https://youtu.be/7HgJIAUtICU">Learn more</a>
+</br> </br>
+  <li>Tokyo flash</li>
+  <!Links> <a href="https://youtu.be/SIuF37EWaLU">Learn more</a>
+</br> </br>
+  <li>裸の勇者</li> 
+  <!Links> <a href="https://youtu.be/FT0GKCuSaW0">Learn more</a>
+</br> </br>
+  
+  <li>怪獣の花唄</li> 
+  <!Links> <a href="https://youtu.be/lYLa6zyjhSI">Learn more</a>
+</br> </br>
+
+</ol> 
+
+<!image>
+<img src="https://th.bing.com/th/id/R.d9d71e4bacd6f1032e036ea6977a6c9b?rik=qsTpjen%2bM4lTuA&pid=ImgRaw&r=0"mirrorchristmas" width="450">
+<!image>
+<img src="https://jpopblog.com/wp-content/uploads/2022/01/eN2wvP2.jpg" width="450">
+<!image>
+<img src="https://p2.bahamut.com.tw/HOME/creationCover/62/0005317962_B.JPG"width="450">
+<!image>
+<!image>
+<img src="https://i.ytimg.com/vi/3L1eMmiLYw4/maxresdefault.jpg"mirrorchristmas" width="450">
+<!image>
+
+
+
+</body>
+</html>
+
